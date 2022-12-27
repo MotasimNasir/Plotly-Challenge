@@ -1,4 +1,4 @@
-# plotly-challenge: Belly Button Biodiversity
+# Plotly Challenge: Belly Button Biodiversity
 
 This repository contains an app displaying the following for each individual:
 
